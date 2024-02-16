@@ -12,7 +12,7 @@ SOLUTION: I created a responsive and beautiful website that showcased everything
 
 [Zen Training](https://zensconsulting.netlify.app/)
 
-![App Logo](https://drive.google.com/uc?export=view&id=1sU_QAk5b6znlI9fhuEPg1-dYt-8u6iD9) <img src="Portfolio vid.gif">
+![App Logo](https://drive.google.com/uc?export=view&id=15rH3qBYDvHsrZOBcUQxfgNU8q3niFral) <img src="Portfolio vid.gif">
 
 ## How It's Made:
 
